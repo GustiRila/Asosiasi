@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatihanAsosiasi", "LatihanAsosiasi\LatihanAsosiasi.csproj", "{CE42E8B7-9490-4A66-829D-D14C6FCADEA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatihanAgregasi", "..\..\Agregasi\LatihanAgregasi\LatihanAgregasi.csproj", "{4F7FF079-74D2-4DAF-8E70-2AF31BCBE430}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE42E8B7-9490-4A66-829D-D14C6FCADEA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE42E8B7-9490-4A66-829D-D14C6FCADEA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE42E8B7-9490-4A66-829D-D14C6FCADEA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE42E8B7-9490-4A66-829D-D14C6FCADEA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F7FF079-74D2-4DAF-8E70-2AF31BCBE430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7FF079-74D2-4DAF-8E70-2AF31BCBE430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7FF079-74D2-4DAF-8E70-2AF31BCBE430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7FF079-74D2-4DAF-8E70-2AF31BCBE430}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D917AE2-C33C-4528-B9A7-49AC5F585C92}
+	EndGlobalSection
+EndGlobal
